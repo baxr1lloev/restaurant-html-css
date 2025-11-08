@@ -1,0 +1,27 @@
+{
+  "name": "restaurant-html-css",
+  "version": "1.0.0",
+  "description": "Restaurant website built with Next.js 15",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:26867/git/baxr1lloev/restaurant-html-css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^16.0.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.1",
+    "eslint-config-next": "^16.0.1"
+  }
+}
